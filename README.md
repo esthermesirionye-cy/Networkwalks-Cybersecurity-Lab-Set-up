@@ -40,7 +40,7 @@ The lab provides an isolated environment to execute security testing, traffic mo
 * Downloaded and installed the latest binary release of Oracle VirtualBox on Windows.
 * Configured core global hypervisor settings.
 
-![VirtualBox Setup](screenshot 2026-09-08 033850.png)
+(screenshot 2026-09-08 033850.png)
 
   
 #### 2. NAT Network Configuration (10.0.0.0/24)
@@ -57,14 +57,14 @@ The lab provides an isolated environment to execute security testing, traffic mo
 * * Mapped the host /downloads folder to Kali Linux.
 * Booted Kali Linux and set the static IP address to 10.0.0.2/24.
 
-![Kali Linux Setup](screenshot 2026-09-08 033928.png)
+(screenshot 2026-09-08 033928.png)
 
 #### 4. Testing & VM Snapshot
 
 * Ran ping commands inside the Kali Linux terminal to confirm internet access and DNS resolution.
 * Created a clean *VM Snapshot* to easily restore the base state at any time.
 
-![VM Snapshot](screenshot 2026-09-08 034004.png)
+(screenshot 2026-09-08 034004.png)
 
 ---
 
