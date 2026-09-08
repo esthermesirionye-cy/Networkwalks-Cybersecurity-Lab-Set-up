@@ -58,7 +58,6 @@ The lab provides an isolated environment to execute security testing, traffic mo
 
 * Ran ping commands inside the Kali Linux terminal to confirm internet access and DNS resolution.
 * Created a clean *VM Snapshot* to easily restore the base state at any time.
-* https://github.com/esthermesirionye-cy/Networkwalks-Cybersecurity-Lab-Set-up/commit/438e4691040377071f05568dc31bcb2d7a685100
 
 ---
 
