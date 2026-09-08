@@ -59,7 +59,7 @@ The lab provides an isolated environment to execute security testing, traffic mo
 * * Mapped the host /downloads folder to Kali Linux.
 * Booted Kali Linux and set the static IP address to 10.0.0.2/24.
 
-![Kali Linux Setup]()
+![Kali Linux Setup](VirtualBox_kali-linux-2026.2-virtualbox-amd64_08_09_2026_05_14_30.png)
 
 #### 4. Testing & VM Snapshot
 
