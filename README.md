@@ -48,6 +48,8 @@ The lab provides an isolated environment to execute security testing, traffic mo
 * Created a private *NAT Network* profile inside VirtualBox before launching the VM.
 * Scoped the network subnet to 10.0.0.0/24.
 
+  ![Nat Network Configuration](Screenshot%202026-09-07%20231042.png)
+
 #### 3. Kali Linux Setup
 
 * Extracted the downloaded Kali Linux image file using local extraction tools (Winamp).
@@ -57,7 +59,7 @@ The lab provides an isolated environment to execute security testing, traffic mo
 * * Mapped the host /downloads folder to Kali Linux.
 * Booted Kali Linux and set the static IP address to 10.0.0.2/24.
 
-![Kali Linux Setup](Screenshot%202026-09-08%20033928.png)
+![Kali Linux Setup]()
 
 #### 4. Testing & VM Snapshot
 
