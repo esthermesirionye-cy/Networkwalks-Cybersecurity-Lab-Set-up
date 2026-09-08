@@ -40,7 +40,7 @@ The lab provides an isolated environment to execute security testing, traffic mo
 * Downloaded and installed the latest binary release of Oracle VirtualBox on Windows.
 * Configured core global hypervisor settings.
 
-!(screenshot%2026-09-08%033850.png)
+![VirtualBox Installation](screenshot%2026-09-08%033850.png)
 
   
 #### 2. NAT Network Configuration (10.0.0.0/24)
