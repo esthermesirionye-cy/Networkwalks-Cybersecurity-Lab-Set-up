@@ -100,7 +100,6 @@ The lab provides an isolated environment to execute security testing, traffic mo
 
 ## 🛠️ Tools & Resources
 
-* *7-Zip:* [https://7-zip.org/download.html](https://7-zip.org/download.html)
 * *VirtualBox:* [https://virtualbox.org/wiki/Downloads](https://virtualbox.org/wiki/Downloads)
 * *Kali Linux:* [https://kali.org/get-kali](https://www.google.com/search?q=https://kali.org/get-kali)
 * *Networkwalks Academy:* [https://networkwalks.com](https://networkwalks.com)
