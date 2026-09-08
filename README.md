@@ -76,18 +76,6 @@ The lab provides an isolated environment to execute security testing, traffic mo
 * *Large File Extraction Time:*
 * Challenge: Extracting the Kali Linux virtual disk archive took considerable processing time.
 * Solution: Allowed the extraction process to complete fully before importing the image into VirtualBox.
-  
-
-### 📁 Repository Structure
-
-text
-.
-├── screenshots/
-│   ├── virtualbox_setup.png
-│   ├── nat_network_config.png
-│   ├── kali_desktop.png
-│   └── vm_snapshot.png
-└── README.md
 
 
 ---
