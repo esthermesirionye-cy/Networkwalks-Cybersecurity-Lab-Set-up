@@ -57,14 +57,14 @@ The lab provides an isolated environment to execute security testing, traffic mo
 * * Mapped the host /downloads folder to Kali Linux.
 * Booted Kali Linux and set the static IP address to 10.0.0.2/24.
 
-![Kali Linux Setup](Screenshot%202026-09-08%200033928.png)
+![Kali Linux Setup](Screenshot%202026-09-08%20033928.png)
 
 #### 4. Testing & VM Snapshot
 
 * Ran ping commands inside the Kali Linux terminal to confirm internet access and DNS resolution.
 * Created a clean *VM Snapshot* to easily restore the base state at any time.
 
-![Testing & VM Snapshot](Screenshot%202026-09-08%020034004.png)
+![Testing & VM Snapshot](./Screenshot 2026-09-08 020034004.png)
 
 ---
 
