@@ -47,15 +47,11 @@ The lab provides an isolated environment to execute security testing, traffic mo
 
 #### 3. Kali Linux Setup
 
-* Extracted the downloaded Kali Linux image file using local extraction tools (Winamp / 7-Zip).
-* Imported Kali Linux into VirtualBox and configured RAM and CPU resources.
+* Extracted the downloaded Kali Linux image file using local extraction tools (Winamp).
+* Imported Kali Linux into VirtualBox and configured the RAM.
 * Attached Adapter 1 directly to the newly created *NAT Network*.
-* Configured guest integration settings:
-* *Shared Clipboard:* Bidirectional
-* *Drag and Drop:* Bidirectional
-* *Shared Folder:* Mapped the host /downloads folder to Kali Linux.
-
-
+* Configured guest integration setting * *Shared Folder:
+* * Mapped the host /downloads folder to Kali Linux.
 * Booted Kali Linux and set the static IP address to 10.0.0.2/24.
 
 #### 4. Testing & VM Snapshot
@@ -80,21 +76,6 @@ The lab provides an isolated environment to execute security testing, traffic mo
 * *Large File Extraction Time:*
 * Challenge: Extracting the Kali Linux virtual disk archive took considerable processing time.
 * Solution: Allowed the extraction process to complete fully before importing the image into VirtualBox.
-
-
-
----
-
-### 📁 Repository Structure
-
-text
-.
-├── screenshots/
-│   ├── virtualbox_setup.png
-│   ├── nat_network_config.png
-│   ├── kali_desktop.png
-│   └── vm_snapshot.png
-└── README.md
 
 
 
