@@ -64,7 +64,7 @@ The lab provides an isolated environment to execute security testing, traffic mo
 * Ran ping commands inside the Kali Linux terminal to confirm internet access and DNS resolution.
 * Created a clean *VM Snapshot* to easily restore the base state at any time.
 
-![Testing & VM Snapshot](./Screenshot 2026-09-08 020034004.png)
+![Testing & VM Snapshot](Screenshot%202026-09-08%20034004.png)
 
 ---
 
